@@ -13,7 +13,7 @@ From it, what kind of application is created and after the activity, we use ques
 
 From this investigation, we would like to know if our devices help the non-specialists of haptic to create their own texture rendering, and how this rendering method connects to their creativity from their work.
 
-This is a similar workshop paper but it is in the book, so I would like to know the target journal or conference.
+This is a similar workshop paper.
 https://link.springer.com/chapter/10.1007/978-4-431-55772-2_12 
 
 What age group are you aiming for? - Age does not matter but they should be none-expert of rendering tactile texture.
