@@ -19,3 +19,6 @@ https://link.springer.com/chapter/10.1007/978-4-431-55772-2_12
 What age group are you aiming for? - Age does not matter but they should be none-expert of rendering tactile texture.
 What activity are you writing about? - I'm going to write about like above.
 What do you think you want your target audience is (teachers, grad students in positions like you, faculty, etc.)?  - Haptic Researchers, Grad students, Faculty who introduce texture rendering in the class.
+
+![Figure1-1B](https://user-images.githubusercontent.com/59941345/76025998-d3f6ad00-5ee2-11ea-9191-f996bc30c067.png)
+![Figure2-old](https://user-images.githubusercontent.com/59941345/76026177-21731a00-5ee3-11ea-8b25-505604b9f3fd.png)
