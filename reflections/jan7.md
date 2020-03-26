@@ -1,4 +1,4 @@
-# Sample Reflection: January 9th
+# Sample Reflection: January 7th
 
 ## This is a sample reflection! 
 
